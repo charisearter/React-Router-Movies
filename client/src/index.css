@@ -21,6 +21,10 @@ a {
   color: black;
 }
 
+a:hover {
+  color: #06623b;
+}
+
 .movie-director {
   padding: 4px 0;
   font-size: 0.8rem;
